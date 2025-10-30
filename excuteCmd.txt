@@ -1,0 +1,4 @@
+python -m venv venv
+venv\Scripts\activate
+.\venv\Scripts\Activate.ps1 -> For powershell
+pip install streamlit google-generativeai
